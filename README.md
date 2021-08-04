@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Paulo Henrique
+## Bem Vindos! Eu sou o Paulo Henrique
 - 🌱 I’m currently learning Javascript and Typescript
 - 😄 Pronouns: he him
 
